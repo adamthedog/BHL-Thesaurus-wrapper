@@ -9,7 +9,6 @@ Both packages are included in the standard library.
 2. requests
 
 ### Thesaurus
--------------
 The main wrapper object.
 
 `Thesaurus(`*`key, version=2`*`)`
