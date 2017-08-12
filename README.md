@@ -47,3 +47,13 @@ The object responses are stored in.
 
 ###### ErrorCode500
 - raised upon a status code of 500
+
+
+## Example
+```python3
+import thesaurus
+
+thes = thesaurus.Thesaurus("YOUR KEY")
+word_stuff = thes.rawText("stuff")
+print(word_stuff)
+```
