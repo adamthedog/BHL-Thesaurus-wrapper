@@ -50,7 +50,7 @@ The object responses are stored in.
 
 
 ## Example
-```python3
+```py
 import thesaurus
 
 thes = thesaurus.Thesaurus("YOUR KEY")
