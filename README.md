@@ -29,6 +29,7 @@ The main wrapper object.
 
 
 ### Response
+The object responses are stored in.
 
 #### Attributes:
 
