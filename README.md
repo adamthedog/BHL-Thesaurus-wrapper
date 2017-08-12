@@ -29,7 +29,6 @@ The main wrapper object.
 
 
 ### Response
-------------
 
 #### Attributes:
 
@@ -41,7 +40,6 @@ The main wrapper object.
 
 
 ### Exceptions
---------------
 
 ###### ErrorCode404
 - raised upon a status code of 404
