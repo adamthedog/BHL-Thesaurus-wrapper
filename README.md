@@ -2,6 +2,9 @@
 A simple Python wrapper for the [BigHugeLabs Thesaurus](http://words.bighugelabs.com).
 The wrapper has been tested in Python 3.5 but not 3.6. Please report any issues.
 
+##### I tried to get the package on pypi but I couldn't get it to work (also just when importing the standard way) so I rolled back the repo. I probably should've just put it into a different branch (and I still have a backup but I'm too lazy) but whatever. If anyone makes and issue about it I'll upload it and you people could help me solve my issues?
+##### For now it'll just be a file to put into your project file.
+
 ## Dependencies
 Both packages are included in the standard library.
 
